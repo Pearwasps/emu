@@ -8,3 +8,9 @@ Burrito Edition's ROM upload site no longer works with our systems, so I have cr
 - Rework Branch: add landing page with shortcuts to various sections (pretty sure that's what index.html is supposed to be?)
 - Rework Branch: add some sort of way to get discord working (probably won't do)
 - Migration: gotta find some way to make this repo private (can't do at the moment)
+
+## Test Hypelinks
+
+- [ROM Loader](https://pearwasps.github.io/emu/ROMeo/custom_ROM.html)
+- [ROM Loader NDS](https://pearwasps.github.io/emu/EmuGames/index.html)
+- [Minecraft](https://pearwasps.github.io/emu/Minecraft/web/index.html)
